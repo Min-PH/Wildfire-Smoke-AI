@@ -673,6 +673,14 @@ This repository provides the CMDDS artifact for PAPO wildfire smoke exposure app
 implementations are intentionally left open and are expected to reside in forks or downstream projects.
 
 ## Related References
+> **Methodology note.** MOKG-PH-A is the author's own internal governance-review framework for auditing
+> AI-mediated public health interventions (currently unpublished) — it is not an external or independently
+> maintained standard. It is applied here as a structured self-review methodology: each "Case" entry below
+> is an internal analysis report produced by running this CMDDS through the toolkit's audit tasks (e.g., the
+> Dignity Audit and Opportunity-vs-Risk Framing Audit referenced in the Changelog), not a third-party review.
+> Case numbering and findings are internally consistent across the author's CMDDS lineage (including
+> CMDDS_PAPO_Heatwave) but are not yet independently verifiable pending publication of the MOKG-PH-A
+> framework itself.
 - **CMDDS_PAPO_Heatwave v1.2** — the parent architecture this document adapts; see that document's Related References for the underlying PAPO framework publications and the MOKG-PH Case #002-C analysis that shaped the required-elements structure inherited here.
 - **MOKG-PH-A Case #005-C (proposed)** — PAPO–Wildfire Smoke Exposure CMDDS v1.0 Case Analysis Report, applying the MOKG-PH-A v2.1 toolkit (Tasks A1–A4), August 2026. Findings incorporated into the v1.1 revision; see Changelog. Case ID is proposed pending confirmation against the internal case ledger.
 - **MOKG-PH-A Step 5 Mechanism-Evidence Module (★ v1.2)** — empirical audit of Assumption #8, August 2026. Findings incorporated into the v1.2 revision (Step 4 Evidence Base; see Changelog). Underlying sources:
