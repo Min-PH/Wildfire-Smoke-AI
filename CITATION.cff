@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this CMDDS, please cite it as below."
+title: "CMDDS for PAPO–Wildfire Smoke Exposure: Conceptual Simulation Framework"
+version: 1.2
+date-released: 2026-08-19
+authors:
+  - family-names: Wu
+    given-names: Min
+    affiliation: "Zilber College of Public Health, University of Wisconsin-Milwaukee"
+    email: wu@uwm.edu
+repository-code: "https://github.com/Min-PH/PAPO-Wildfire-Smoke-AI"
+license: CC-BY-4.0
+keywords:
+  - public health
+  - wildfire smoke
+  - PM2.5
+  - policy simulation
+  - agent-based modeling
+  - health equity
+  - PAPO
+  - CMDDS
