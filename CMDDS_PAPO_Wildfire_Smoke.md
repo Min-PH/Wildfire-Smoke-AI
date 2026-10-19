@@ -4,9 +4,9 @@
 **Date:** 2026-08-19
 **Author:** Min Wu, PhD
 **Affiliation:** Zilber College of Public Health, University of Wisconsin-Milwaukee
-**Contact / GitHub:** [repo link]
+**Contact / GitHub:** https://github.com/Min-PH/PAPO-Wildfire-Smoke-AI
 
-**Cite:** Min Wu. CMDDS for PAPO–Wildfire Smoke Exposure v1.2 – Conceptual Simulation Framework. [venue / DOI]
+**Cite:** Min Wu. CMDDS for PAPO–Wildfire Smoke Exposure v1.2 – Conceptual Simulation Framework. Zenodo. DOI: 10.5281/zenodo.23485910
 
 > **Note on lineage.** This CMDDS extends the Policy-Aware Personalized Opportunity (PAPO) framework from the validated CMDDS_PAPO_Heatwave v1.2 architecture to a second acute environmental hazard: wildfire smoke (PM2.5) exposure. Rather than re-deriving governance requirements from scratch, the v1.0 release inherited the MOKG-PH–informed structural requirements already validated for the heatwave case (bias injection, null-output-as-required-architecture, pre-selected equity metrics, governance-signed human-handover boundaries, explicit underserved-population nodes, the Simulation-First Protocol, and the Pre-Deployment Checklist) from initial release, rather than adding them in a later revision cycle. Domain-specific additions unique to smoke exposure are noted inline.
 >
